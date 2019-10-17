@@ -1,0 +1,12 @@
+{
+    "name": "prg/component",
+    "authors": [
+        {
+            "name": "Kolelan",
+            "email": "kolelan@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
